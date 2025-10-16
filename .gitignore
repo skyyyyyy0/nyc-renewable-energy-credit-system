@@ -1,0 +1,17 @@
+# Data files
+data/raw/*.csv
+data/raw/*.xlsx
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Anaconda
+anaconda_projects/
